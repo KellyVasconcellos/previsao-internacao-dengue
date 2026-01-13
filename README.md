@@ -37,7 +37,7 @@ As bibliotecas utilizadas neste projeto são:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/KellyVasconcellos/A7-Aplicando-Conhecimento.git
+   git clone https://github.com/KellyVasconcellos/previsao-internacao-dengue.git
 
 2. Instale as dependências necessárias:
    Caso não tenha o arquivo requirements.txt, instale as bibliotecas manualmente com o seguinte comando:
